@@ -8,14 +8,11 @@
         <div class="card bg-base-100 shadow-md mt-8 mb-8 rounded-2xl">
             <div class="card-body text-center">
 
-                <h1 class="text-3xl font-bold">
-                    Welcome to Chirper!
-                </h1>
-
-                <p class="mt-4 text-base-content/60">
-                    This is your brand new Laravel application.
-                    Time to make it sing (or chirp)!
-                </p>
+                <div>
+                    <h1 class="text-3xl font-bold">Welcome to Chirper!</h1>
+                    <p>This is your brand new Laravel app. Time to make it sing (or chirp)!</p>
+                    <p class="mt-2 text-sm text-gray-600">Now this is live on the internet!</p>
+                </div>
 
                 <div class="mt-8 flex justify-center gap-4">
                     <a href="#" class="btn btn-primary px-8 rounded-xl shadow-sm">
